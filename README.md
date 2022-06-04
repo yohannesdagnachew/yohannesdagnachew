@@ -4,6 +4,6 @@
 
 Skills: VUE JS / BootStrap / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning more with the Microverse community. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohannesdagnachew)](https://github.com/anuraghazra/github-readme-stats)
