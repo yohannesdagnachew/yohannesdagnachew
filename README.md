@@ -12,7 +12,7 @@ Skills: VUE JS / BootStrap / JS / HTML / CSS
 </a>
 
 
-- Get in touch
+##### Get in touch
 <p>
   <a href="https://twitter.com/Jod99712013?t=IEPY79ojvcMGk4OohBaWxQ&s=09"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
   <a href="linkedin.com/in/yohannes-dagnachew-5b163a236"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
