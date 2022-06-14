@@ -1,6 +1,6 @@
 # Hi there 👋, Yohannes Dagnachew
 #### Design and Development
- Passionate self-taught frontend  web developer and a freelance software engineer from Ethiopia. Currently learning more with the Microverse community.
+ Passionate self-taught front-end web developer and a freelance software engineer from Ethiopia. Currently learning more with the Microverse community.
 
 Skills: VUE JS / BootStrap / JS / HTML / CSS
 
